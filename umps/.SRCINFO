@@ -1,0 +1,20 @@
+pkgbase = umps
+	pkgdesc = Virtual machine simulator based around the MIPS R2/3000 microprocessor.
+	pkgver = 2.0.1
+	pkgrel = 1
+	url = http://mps.sourceforge.net/
+	arch = x86_64
+	license = GPL2
+	makedepends = git
+	makedepends = autoconf
+	makedepends = make
+	depends = qt4
+	depends = libelf
+	depends = boost
+	depends = libsigc++
+	depends = cross-mipsel-linux-gnu-gcc
+	source = https://sourceforge.net/projects/mps/files/uMPS2/umps-2.0.1.tar.gz
+	md5sums = SKIP
+
+pkgname = umps
+
