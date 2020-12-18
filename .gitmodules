@@ -1,0 +1,3 @@
+[submodule "umps2"]
+	path = umps2
+	url = https://aur.archlinux.org/umps2.git
