@@ -7,3 +7,6 @@
 [submodule "umps3"]
 	path = umps3
 	url = https://aur.archlinux.org/umps3.git
+[submodule "umps3-git"]
+	path = umps3-git
+	url = https://aur.archlinux.org/umps3-git.git
