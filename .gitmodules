@@ -13,3 +13,6 @@
 [submodule "deber"]
 	path = deber
 	url = https://aur.archlinux.org/deber.git
+[submodule "deber-git"]
+	path = deber-git
+	url = https://aur.archlinux.org/deber-git.git
